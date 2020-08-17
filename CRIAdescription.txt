@@ -1,0 +1,14 @@
+http://parnec.nuaa.edu.cn/code_CRIA.ashx
+
+Description: This package includes the CRIA algoirthms implemented in [1] for multi-label crowdsourcing learning with incomplete annotations. A readme file and example data is available in the package.  
+
+References:S.-Y. Li and Y. Jiang. Multi-label Crowdsourcing Learning
+with Incomplete Annotations. In 15th Pacific Rim International Conference on Artificial Intelligence, 232-245, 2018.
+
+
+Requirement: The package was developed with MATLAB.
+
+ATTN: This package is free for academic usage. You can run it at your own risk. It was developed by Ms. Shao-Yuan Li (lisy@nuaa.edu.cn) during her Phd work in LAMDA. For any problem concerning the code, please feel free to contact Ms. Li(lisy@nuaa.edu.cn).  For other purposes, please contact Professor Zhi-Hua Zhou(zhouzh@nju.edu.cn).
+
+
+
